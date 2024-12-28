@@ -102,7 +102,9 @@ module JK (j, k, clk, rst, q);
 ![LD](https://github.com/user-attachments/assets/4f926ccb-4098-4993-b36a-b7ba9e7db325)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![RTL](https://github.com/user-attachments/assets/64ac0a8c-854c-4d27-b07e-e4a3fc97fdbc)
+
+![RTL 2](https://github.com/user-attachments/assets/3d5f06b5-bd36-4ed5-84e9-f385fadd9996)
+
 
 **RESULTS**
 
